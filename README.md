@@ -1,7 +1,7 @@
 # Cargar-CCLoader-en-el-CC254X
 
 
-Grabe el firmware CC254x con una placa Arduino.
+Pasos para grabar el firmware CC254x con una placa Arduino.
 1.	Cargar el sketch CCLoader.ino en la placa Arduino.
 2.	Conectar los pines:
 
